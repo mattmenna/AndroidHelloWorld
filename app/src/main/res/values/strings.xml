@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Hello World</string>
+    <string name="display_message">Submit a Message</string>
+    <string name="message">message</string>
 </resources>
