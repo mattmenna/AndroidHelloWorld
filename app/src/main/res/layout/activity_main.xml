@@ -25,4 +25,10 @@
             android:id="@+id/button"
             android:onClick="sendMessage" android:layout_alignParentTop="true" android:layout_toEndOf="@+id/editText"
             android:layout_marginStart="53dp" android:layout_marginTop="22dp"/>
+    <Button
+            android:text="Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:layout_below="@+id/button"
+            android:layout_toEndOf="@+id/editText" android:layout_marginStart="14dp" android:layout_marginTop="20dp"
+            android:id="@+id/button1" android:onClick="shareText (MainActivity)"/>
 </RelativeLayout>
